@@ -13,7 +13,7 @@
 
 I'm an empathetic software developer who is passionate about designing and contributing to projects to help those without a voice find a voice in this society. As a former educator, my work focused on helping students in high risk communities. I enjoy developing software through agile workflow - if no one cares about it, what was the point?! One of my favorite hobbies is storytelling and listening to others. If there's a problem, I work hard to craft a solution. When I'm not at my computer, you can find me cuddling with my maltichon, MoMo, or stuffing my face with food listening to the latest K-POP songs.
 
-With the COVID-19 pandemic, there has been a rise in crimes against Asian Americans Pacific Islanders. If you made it this far in my profile, please take time and checkout [Stop AAPI Hate](https://stopaapihate.org/) to see how to report hate crimes and resources available. Also take the time sign this [petition](https://www.change.org/p/get-mainstream-news-coverage-of-national-elderly-asian-american-assaults-cnn-msnbc-fox-vice-buzzfeed-nyt-washpost-latimes-axios?recruiter=1098533121&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=share_petition&recruited_by_id=b415c410-a1fb-11ea-abea-57fb14e9edd3) to increase media coverage of crimes against our elders in the AAPI community.
+With the COVID-19 pandemic, there has been a rise in crimes against Asian Americans Pacific Islanders. If you made it this far in my profile, please take time and checkout [Stop AAPI Hate](https://stopaapihate.org/) to see how to report hate crimes and resources available.
 
 <p align="center">
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
