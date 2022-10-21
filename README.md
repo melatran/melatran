@@ -9,8 +9,6 @@
 
 <img width="1211" alt="Screen Shot 2020-07-13 at 5 58 17 PM" src="https://user-images.githubusercontent.com/59414750/87365061-7c241e80-c532-11ea-9161-0c86783e2d21.png">
 
-**“My vision is to create inclusive projects that can impact the community across the spectrum as well as promote diverse representation in the field of Tony Starks 👩🏻‍💻”**
-
 I'm an empathetic software developer who is passionate about designing and contributing to projects to help those without a voice find a voice in this society. As a former educator, my work focused on helping students in high risk communities. I enjoy developing software through agile workflow - if no one cares about it, what was the point?! One of my favorite hobbies is storytelling and listening to others. If there's a problem, I work hard to craft a solution. When I'm not at my computer, you can find me cuddling with my maltichon, MoMo, or stuffing my face with food listening to the latest K-POP songs.
 
 With the COVID-19 pandemic, there has been a rise in crimes against Asian Americans Pacific Islanders. If you made it this far in my profile, please take time and checkout [Stop AAPI Hate](https://stopaapihate.org/) to see how to report hate crimes and resources available. If you do not identify as Asian but want to be an ally, take a look at [HateisaVirus](https://beacons.page/hateisavirus/) for resources to educate yourself or contribute to making a donation.
@@ -25,9 +23,5 @@ With the COVID-19 pandemic, there has been a rise in crimes against Asian Americ
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
